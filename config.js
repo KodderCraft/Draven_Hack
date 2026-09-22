@@ -8,7 +8,7 @@ export default {
   ownerNumber: "",
   superOwner: "5732230904061",
 
-  prefix: ":",                   // Prefijo de comandos
+  prefix: ".",                   // Prefijo de comandos
 
   // ── Sesión ────────────────────────────────────────────
   sessionDir: "./auth_info",
