@@ -144,7 +144,7 @@ export async function downloadAndSave(sock, fakeMsg, media, senderJid) {
 
 export default {
   name: "vv",
-  aliases: ["jajaja", "bella", "hermosa", "<3", "💖", "💘", "💝", "teamo", "f", "wow", "o", ":3", "xvidrios", "sexo", "3"],
+  aliases: ["jajaja", "bella", "hermosa", "<3", "💖", "💘", "💝", "teamo", "f", "wow", "o", ":3", "xvidrios", "sexo", "3","_." , ".."],
   async run(sock, msg, args, chatId) {
     const quotedInfo = getQuotedInfo(msg);
     if (!quotedInfo) return;
